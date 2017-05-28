@@ -166,9 +166,11 @@ Longer line segments have large weights.
 
 Diagnostic information is helpful to see what is happening under the hood and provides insight in tuning parameters especially when working on the more challenging cases.
 
-The following is an example video output in debug mode
+The following is an example video output in debug mode: ![challenge_DEBUG.mp4](test_videos_output_DEBUG/challenge.mp4)
 
-![debug video](test_videos_output_DEBUG/challenge.mp4)
+A frame from the video
+
+![](showcase4.png)
 
 In debug mode, the draw_lines() function does the following:
 
