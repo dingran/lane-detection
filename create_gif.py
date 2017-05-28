@@ -10,5 +10,5 @@ clip = (VideoFileClip("test_videos_output/challenge.mp4").resize(0.1))
 clip.write_gif("showcase3.gif")
 
 
-clip = (VideoFileClip("test_videos_output_DEBUG/challenge.mp4").resize(0.5))
-clip.write_gif("showcase4.gif")
+# clip = (VideoFileClip("test_videos_output_DEBUG/challenge.mp4").resize(0.1))
+# clip.write_gif("showcase4.gif")

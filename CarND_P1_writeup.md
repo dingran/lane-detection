@@ -168,7 +168,7 @@ Diagnostic information is helpful to see what is happening under the hood and pr
 
 The following is an example video output in debug mode
 
-![debug video](showcase4.gif)
+![debug video](test_videos_output_DEBUG/challenge.mp4)
 
 In debug mode, the draw_lines() function does the following:
 
@@ -211,7 +211,7 @@ and lane lines are properly generated, as shown below.
 
 ## Discussions on shortcomings and possible improvements
 
-In this section I will discuss the possible improvements all of which ties to shortcomings of the current implementation of the program.
+In this section I will discuss the possible improvements, all of which tie to shortcomings of the current implementation of the program.
 
 ### Better conversion color image into grayscale
 
