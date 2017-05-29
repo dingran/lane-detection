@@ -25,12 +25,12 @@ The goals of this project are the following:
 * Make a pipeline that finds lane lines on the road in still images and videos
 * Reflect on your work in a written report
 
-Before diving into the details, here are a few quick showcases of the final results
+Before diving into the details, here is a quick overview of the final results
 
 **Images**: (All labeled images are in [test_images_output](test_images_output))
 
 <img src="test_images_output/solidWhiteCurve.jpg" width="250"> <img src="test_images_output/solidYellowCurve.jpg" width="250"> <img src="test_images_output/whiteCarLaneSwitch.jpg" width="250">
-
+<img src="test_images_output/solidWhiteRight.jpg" width="250"> <img src="test_images_output/solidYellowCurve2.jpg" width="250"> <img src="test_images_output/solidYellowLeft.jpg" width="250">
 
 **Videos:** (All labeled videos are in [test_videos_output](test_videos_output))
 
