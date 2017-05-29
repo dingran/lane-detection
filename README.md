@@ -27,7 +27,7 @@ The goals of this project are the following:
 
 Here is a summary of the key folders and files in this project
 
-* This README file is the project writeup, the original README from udacity is [README_udacity.md)](README_udacity.md)
+* This README file is the project writeup, the original README from udacity is [README_udacity.md](README_udacity.md)
 * [P1.ipynb](P1.ipynb) is Jupyter notebook holding all the code used in this project
 * [test_images](test_images) and [test_videos](test_videos) hold the input images and videos provided by Udacity
 * [test_images_output](test_videos_output) and [test_videos_output](test_videos_output) hold the labeled images and videos produced by the [P1.ipynb](P1.ipynb)
